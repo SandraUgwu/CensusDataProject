@@ -1,4 +1,3 @@
-```python
 # Census Data Analysis Project
 
 This repository contains a project analyzing a mock census dataset for a small UK town. The goal is to provide data-driven recommendations for local government decisions on urban planning and resource allocation.
@@ -40,4 +39,3 @@ The project involves:
 ## Acknowledgments
 This project was completed as part of the Fundamentals of Data Science module coursework.
 
-```
